@@ -29,7 +29,6 @@ print(1,'30%')
 print(2,'60%')
 print(3,'90%')
 
-
 opcion = int(input('seleccione una opcion: '))
 valor = int(input('ingrese el valor: '))
 
